@@ -1,0 +1,6 @@
+[submodule "Competitive Programming/Submissions"]
+	path = Competitive Programming/Submissions
+	url = https://github.com/Salty-Beggar/Submissions
+[submodule "My Games/Heartlinked"]
+	path = My Games/Heartlinked
+	url = https://github.com/Salty-Beggar/Heartlinked.git
