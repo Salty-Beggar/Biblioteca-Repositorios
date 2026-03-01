@@ -9,7 +9,7 @@
 	url = https://github.com/Salty-Beggar/web-development-school.git
 [submodule "My Games/Grand-Machinery-Unity"]
 	path = My Games/Grand-Machinery-Unity
-	url = https://Salty-Beggar/Grand-Machinery-Unity
+	url = https://github.com/Salty-Beggar/Grand-Machinery-Unity
 [submodule "My Games/Grand-Machinery-GameMaker2"]
 	path = My Games/Grand-Machinery-GameMaker2
-	url = https://Salty-Beggar/Grand-Machinery-GameMaker2
+	url = https://github.com/Salty-Beggar/Grand-Machinery-GameMaker2
