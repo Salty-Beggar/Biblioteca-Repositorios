@@ -13,3 +13,6 @@
 [submodule "My Games/Grand-Machinery-GameMaker2"]
 	path = My Games/Grand-Machinery-GameMaker2
 	url = https://github.com/Salty-Beggar/Grand-Machinery-GameMaker2
+[submodule "My Games/Flashcards"]
+	path = My Games/Flashcards
+	url = https://github.com/Salty-Beggar/Flashcards.git
